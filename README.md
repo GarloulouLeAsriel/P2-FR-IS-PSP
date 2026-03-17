@@ -87,3 +87,6 @@ interdit à la vente, attribution obligatoire.
 
 Persona 2: Innocent Sin est © Atlus. Ce projet est une traduction amateur à but non lucratif.
 Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
+
+
+**Veillez à vérifier votre Json à l'aide de [JsonVerify](https://github.com/Garloulou/JsonVerify) avant de soumettre votre traduction !**
